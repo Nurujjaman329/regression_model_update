@@ -1,0 +1,22 @@
+{
+    "orders": [
+      {
+        "order_value": 1500,
+        "cart_item_count": 3,
+        "product_category": "electronics",
+        "order_day": "Sunday",
+        "order_hour": 0,
+        "customer_phone_prefix": "017",
+        "asn": {"asn": "AS12345"},
+        "is_bangladesh": true,
+        "browser": "Chrome",
+        "os": "Windows",
+        "device_type": "desktop",
+        "district": "Dhaka",
+        "coupon_used": true,
+        "was_cancelled": false,
+        "is_fraud": false
+      }
+    ]
+  }
+  
