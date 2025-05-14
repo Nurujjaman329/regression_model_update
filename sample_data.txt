@@ -1,41 +1,25 @@
-// when run with chrome 
-
+G:\python_practise\combined_script\converter>python main.py
 {
-  "asn": {
-    "asn": null,
-    "org": "Unknown"
-  },
-  "device_info": {
-    "browser": "Chrome",
-    "device": "Other",
-    "is_mobile": 0,
-    "is_pc": 1,
-    "is_tablet": 0,
-    "os": "Windows"
-  },
-  "district_detected": "Dhaka",
-  "ip": "127.0.0.1",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
-}
-
-
-
-// When run with Edge 
-
-{
-  "asn": {
-    "asn": null,
-    "org": "Unknown"
-  },
-  "device_info": {
-    "browser": "Edge",
-    "device": "Other",
-    "is_mobile": 0,
-    "is_pc": 1,
-    "is_tablet": 0,
-    "os": "Windows"
-  },
-  "district_detected": "Dhaka",
-  "ip": "127.0.0.1",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+  "order_total": 1235,
+  "order_total_stnd": 0.022745490981963927,
+  "cart_item_count": 1,
+  "cart_item_count_stnd": 0.0,
+  "product_type": "default",
+  "day_of_week": "Wednesday",
+  "day_of_month": 30,
+  "hour_of_day": 5,
+  "phone_number_prefix": "01939",
+  "sim_operator": "Banglalink",
+  "email_provider": "gmail",
+  "is_coupon_used": false,
+  "merchant_return_rate": 0,
+  "merchant_order_count": 0,
+  "asn_number": "AS23688",
+  "asn_name": "Link3 Technologies Ltd.",
+  "user_browser": "Chrome",
+  "user_os_name": "Linux",
+  "user_device_type": "PC",
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 
+Safari/537.36",
+  "district": "Chittagong"
 }
